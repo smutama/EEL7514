@@ -1,4 +1,6 @@
-## ***EEL7514 - Tópico Avançado em Processamento de Sinais***
+## ***🐱EEL7514 - Tópico Avançado em Processamento de Sinais***
+
+> "Os erros são os portais da descoberta" - **James Joyce**
 
 **Curso**: [Engenharia Eletrônica](http://cagr.sistemas.ufsc.br/relatorios/curriculoCurso?curso=235) - Universidade Federal de Santa Catarina ([UFSC](ufsc.br)), Florianópolis, SC, Brasil
 
