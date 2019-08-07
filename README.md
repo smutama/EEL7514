@@ -1,4 +1,4 @@
-## ***🐱EEL7514 - Tópico Avançado em Processamento de Sinais***
+## ***🐱EEL7514 - Introdução ao Aprendizado de Máquina***
 
 > "Os erros são os portais da descoberta" - **James Joyce**
 
